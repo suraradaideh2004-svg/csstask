@@ -1,7 +1,9 @@
 .the1,
 .the3 {
    text-align: center;
-    background-color:navy
+    background-color:navy;
+     color: azure;
+     font-size: 5px;
 }
 .the1 h1,
 .the2 dt{
