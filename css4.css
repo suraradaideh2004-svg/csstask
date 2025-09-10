@@ -1,0 +1,20 @@
+.the1,
+.the3 {
+   text-align: center;
+    background-color:navy
+}
+.the1 h1,
+.the2 dt{
+    text-transform:capitalize;
+}
+.the1 p ,
+.the3 h5{
+    text-transform: uppercase;
+}
+.the2 dt,
+.the3 h5{
+    color:red;
+}
+.the2 dt {
+    text-decoration: underline;
+}
