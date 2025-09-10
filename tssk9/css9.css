@@ -1,0 +1,16 @@
+body {
+
+  background: linear-gradient(
+    to right,
+    #a86aa4 50%,
+    #cc6b8e 62%,
+    #f3a469 87%,
+    #f7c978 100%
+  );
+}
+p{
+    color: azure;
+    text-align: center ;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
