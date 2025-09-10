@@ -1,0 +1,19 @@
+h1{
+    text-decoration: underline;
+text-align: center;
+}
+.the1 dt{
+text-transform: capitalize;
+}
+.bbb{
+text-decoration: overline;
+}
+.ccc{
+    text-decoration: line-through;
+}
+.the3 dt{
+    text-transform: lowercase;
+}
+.the2 dt{
+    text-transform: uppercase;
+}
