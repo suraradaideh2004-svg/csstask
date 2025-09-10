@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://m.media-amazon.com/images/I/619+JtkZnmL._AC_SL1000_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,
+ h2{
+    color: red;
+    text-transform: capitalize;
+text-decoration: underline;
+background-color: aliceblue;
+}
+.paragraph{
+    color: blue;
+background-color: azure;
+width:fit-content;
+}
+span{
+    color: greenyellow;
+    text-decoration: underline;
+}
