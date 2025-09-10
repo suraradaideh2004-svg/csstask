@@ -1,0 +1,22 @@
+body{
+    background-color:azure
+;
+}
+h1,
+ h2{
+    color: red;
+    text-transform: capitalize;
+text-decoration: underline;
+background-color: aliceblue;
+
+}
+.paragraph{
+    color: blue;
+background-color: azure;
+background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiaNCJ8_OBsAJ9JWxIbGo57C7RFw1pfDhV_8rlX5sOiQ&s&ec=73068120) left top no-repeat,url(https://lh5.googleusercontent.com/proxy/nILnFN5JFsyavVSWadPVYps1-veSbLOAGY4c_wxYtWP_r9BLc2WBAZQh1rbW4nkQPe_4WTvYbCeCcvrQS_cDbSRuXRMFIX9rGp3pyrbnbloYj4dRcp815rX90Evo) right top no-repeat;
+background-size: 50% 100%,50% 100%;
+}
+span{
+    color: greenyellow;
+    text-decoration: underline;
+}
