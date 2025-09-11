@@ -1,0 +1,26 @@
+body{ 
+    background-color: rgb(241, 241, 169);
+border: 10px solid black;
+margin: 0;
+align-items: center;
+
+}
+
+h1{
+    background-color: rgb(217, 125, 125);
+color: azure;
+text-align: center;
+margin: 100px;
+
+
+}
+.sss{
+
+display: block;
+width: 200px;
+padding: 10px;
+
+font-size:16px ;
+
+
+}
