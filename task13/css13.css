@@ -1,0 +1,11 @@
+body{
+    background-color: azure;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgwYT9Az2X6XgnkgnAQt9_ZwCxvfQ1IqJ53jA-yJQyw&s&ec=73068120) ,
+
+    url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-8912VtOwshF6-f9gCQkP3SsiEBGfOx8Sw&s) ;
+
+    background-repeat: repeat-y, repeat-x;
+    background-size: 300px 200px auto;
+    background-position: top left,top;
+
+}
